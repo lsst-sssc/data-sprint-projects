@@ -1,4 +1,4 @@
-Copy the template and 
+Copy the template below and fill in. Then make a pull request and assign  mschwamb and ColinOrionChandler 
 
 ---------------------------------------------------------
 | Project Title | Title |
@@ -13,7 +13,7 @@ Copy the template and
 
 
 ---------------------------------------------------------
-** Filled in Example**
+**Filled in Example**
 | Project Title | Sprint Organizing (a filled in example) |
 | --- | --- |
 | **Project Lead** | Meg Schwamb and Colin Orion Chandler |
