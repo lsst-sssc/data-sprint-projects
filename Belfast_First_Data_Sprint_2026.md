@@ -23,3 +23,11 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | If you'd like to join reach out to Colin and Meg. (*Comments are optional*)|
 ---------------------------------------------------------
+| Project Title | Adding in parameters we want into the updated MPC scraped database |
+| --- | --- |
+| **Project Lead** | Meg Schwamb |
+| **Expected first author** | Meg Schwamb |
+| **Member (Role)** | Max West, Adam Wilson, Mario Jurić|
+| **Description of project** | - |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
