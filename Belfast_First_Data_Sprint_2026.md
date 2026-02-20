@@ -106,7 +106,7 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | --- | --- |
 | **Project Lead** | Meg Schwamb |
 | **Expected first author** | Meg Schwamb |
-| **Member (Role)** | Dallin Spencer (analysis), Mili Colazo (analysis), PEdro Bernardinelli (analysis) |
+| **Member (Role)** | Dallin Spencer (analysis), Mili Colazo (analysis), PEdro Bernardinelli (analysis) Leslie Young|
 | **Description of project** | While a deeper search through the other KBO color datasets is warranted, we checked for any overalpping KBOs with reported colors in the DES and LSST catalogs, and found 5 objects.  |
 | **Data Sprint** | Belfast Sprint 2026 |
 | **Comment** | Following up with forced photometry or coadding images to get better r,i, and z for these 5 objects, since they are on the edge of the SNR threshold.|
