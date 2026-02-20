@@ -65,7 +65,7 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | --- | --- |
 | **Project Lead** | Grigori Fedorets |
 | **Expected first author** | Grigori Fedorets |
-| **Member (Role)** | James Westover/Software Dev, Grigori Fedorets (Astronomer) |
+| **Member (Role)** | James Westover/Software Dev, Grigori Fedorets (Astronomer), also contributions from Meg Schwamb (QUB), James Robinson (U. of Edinburgh), Mario Jurić (U Washington), Mikael Granvik (U. Helsinki) and maybe also Sorcha team and linking code folks (TBD) |
 | **Description of project** | Search for minimoons! |
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Comment |
