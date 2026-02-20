@@ -41,3 +41,21 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+| Project Title | Disappearing Objects  |
+| --- | --- |
+| **Project Lead** | James Davenport |
+| **Expected first author** | Colin Orion Chandler |
+| **Member (Role)** | James Davenport, Colin Orion Chandler, Ellie White, Brian Rogers, Joe Murtagh, Steve Croft |
+| **Description of project** | Did all the known objects show up in Rubin, or did any seemingly dissapear? |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
+| Project Title | Rotation Color Curves  |
+| --- | --- |
+| **Project Lead** | James Davenport |
+| **Expected first author** | - |
+| **Member (Role)** | James Davenport, Anne Verbiscer, Odysseas Xenos |
+| **Description of project** | Can we measure color variation in asteroid rotation curves? |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
