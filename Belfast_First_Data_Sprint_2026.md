@@ -41,3 +41,13 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+---------------------------------------------------------
+| Project Title | Minimoon Alert Pipeline |
+| --- | --- |
+| **Project Lead** | Grigori Fedorets |
+| **Expected first author** | Grigori Fedorets |
+| **Member (Role)** | James Westover/Software Dev, Grigori Fedorets (Astronomer) |
+| **Description of project** | Search for minimoons! |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
