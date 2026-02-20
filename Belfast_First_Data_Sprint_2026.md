@@ -70,3 +70,21 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+| Project Title | Testing Adler Cutout Analysis on Rubin Data |
+| --- | --- |
+| **Project Lead** | Jamie Robinson |
+| **Expected first author** | Jamie Robinson |
+| **Member (Role)** | Colin Orion Chandler (data analysis), Jamie Robinson (Adler), Colin Snodgrass (Adler) |
+| **Description of project** | Running Adler's cutout analysis (e.g. gnuastro noisechisel) on Rubin data provided by Colin C. |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
+| Project Title | Retrieval of Input Asteroid Parameters Using Sorcha|
+| --- | --- |
+| **Project Lead** | Jamie Robinson |
+| **Expected first author** | Jamie Robinson |
+| **Member (Role)** | Jamie Robinson (analysis), Benoit Carry (Sorcha addon), Odysseas Xenos (Sorcha addon)|
+| **Description of project** | Using the Ellipsoid (and related) sorcha addon(s), create an "updated" DP0.3 with rotational lightcurve effects. Then test how effective LSST is at retrieving the phase parameters (e.g. using simple fit of HG12_Pen16) as a function of time. Place constraints on minimum number of observations, phase angle coverage required before the LSST phase parameters can be considered reliable. Could expand to retrieval of rotation periods? |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Reach out if you would like to get involved |
+---------------------------------------------------------
