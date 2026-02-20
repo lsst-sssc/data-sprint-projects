@@ -101,24 +101,3 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast 2026 |
 | **Comment** | - |
 
----------------------------------------------------------
-| Project Title | Comparing LSST KBO Colors to Previously Published Colors |
-| --- | --- |
-| **Project Lead** | Meg Schwamb |
-| **Expected first author** | Meg Schwamb |
-| **Member (Role)** | Dallin Spencer (analysis), Mili Colazo (analysis), PEdro Bernardinelli (analysis) |
-| **Description of project** | While a deeper search through the other KBO color datasets is warranted, we checked for any overalpping KBOs with reported colors in the DES and LSST catalogs, and found 5 objects.  |
-| **Data Sprint** | Belfast Sprint 2026 |
-| **Comment** | Following up with forced photometry or coadding images to get better r,i, and z for these 5 objects, since they are on the edge of the SNR threshold.|
----------------------------------------------------------
-
----------------------------------------------------------
-| Project Title | SBDynT Hacking + Analysis of LSST TNOs |
-| --- | --- |
-| **Project Lead** | Dallin Spencer |
-| **Expected first author** | ... |
-| **Member (Role)** | Dallin Spencer (hacker + analysis) |
-| **Description of project** | Improved some tutorial notebooks for test-particle analysis, and analyzed all of the TNOs in the sql table. Tested a new feature to identify Haumea family candidates. |
-| **Data Sprint** | Belfast Sprint 2026|
-| **Comment** | Comment |
----------------------------------------------------------
