@@ -31,3 +31,13 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Description of project** | - |
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Comment |
+---------------------------------------------------------
+| Project Title | Preparation for follow-up of LSST fast rotators from Greenstreet et al. 2026 with SALT, VLT and Gemini |
+| --- | --- |
+| **Project Lead** | Dagmara Oszkiewicz |
+| **Expected first author** | - |
+| **Member (Role)** | Dagmara Oszkiewicz, Agnieszka Kryszczynska, Edyta Podlewska-Gaca, Milagros Colazo, Wiktoria Stefanowska, Simone Ieva, Bryce Boylin, Colin Orion Chandler |
+| **Description of project** | - |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
