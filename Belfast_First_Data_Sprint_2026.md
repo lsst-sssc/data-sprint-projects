@@ -88,3 +88,16 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Reach out if you would like to get involved |
 ---------------------------------------------------------
+| Project Title | Hudson: Finding outbursts with Adler |
+| --- | --- |
+| **Project Lead** | Mike Kelley |
+| **Expected first author** | - |
+| **Member (Role)** | Mike Kelley (test data integration, outburst detection) |
+| **Member (Role)** | Carrie Holt (Fink alert integration) |
+| **Member (Role)** | Fraser Gillan (outburst detection) |
+| **Member (Role)** | Jamie Robinson (Adler support) |
+| **Member (Role)** | Tim Lister (Fink integration, database backend) |
+| **Description of project** | Finding outbursts with Adler. |
+| **Data Sprint** | Belfast 2026 |
+| **Comment** | - |
+
