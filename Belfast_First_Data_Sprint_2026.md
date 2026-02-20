@@ -122,3 +122,14 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Belfast Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+
+---------------------------------------------------------
+| Project Title | Determining Comet Colors |
+| --- | --- |
+| **Project Lead** | Karen Meech |
+| **Expected first author** | ... |
+| **Member (Role)** | Karen Meech, Nitya Pandey, Luis Salazar Manzano, Mike Solontoi, Mike Kelley, James Wray |
+| **Description of project** | Understand the complexity of determining colors from asynchronous data sets, and when the colors change what this means in terms of outgassing activity |
+| **Data Sprint** | Belfast Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
