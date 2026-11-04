@@ -46,3 +46,14 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Seattle Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+
+---------------------------------------------------------
+| Project Title | DP2 Proper Elements + Family Candidacy |
+| --- | --- |
+| **Project Lead** | Dallin Spencer |
+| **Expected first author** | Dallin Spencer |
+| **Member (Role)** | Kat Volk |
+| **Description of project** | Compute the proper orbital elements for new asteroids, and for the DP2 TNOs. Finish building family identification schema in SBDynT's proper elements code to automatically identify potential family members for the asteroids. |
+| **Data Sprint** | Seattle Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
