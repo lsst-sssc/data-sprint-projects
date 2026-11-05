@@ -57,3 +57,15 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Seattle Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
+
+
+---------------------------------------------------------
+| Project Title | COSMOS DDF shift-and-stack |
+| --- | --- |
+| **Project Lead** | Luis Salazar Manzano |
+| **Expected first author** | Luis Salazar Manzano? |
+| **Member (Role)** | Matthew Hopkins, Donovan Schlekat, Wilson Beebe, Colin Chandler, Joseph Murtagh |
+| **Description of project** | Prospects for linear shift-and-stack in COSMOS DDF |
+| **Data Sprint** | Seattle Sprint 2026|
+| **Comment** | Comment |
+---------------------------------------------------------
