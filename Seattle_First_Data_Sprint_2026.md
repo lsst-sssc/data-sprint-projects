@@ -57,15 +57,3 @@ Copy the template below and fill in. Then make a pull request and assign  mschwa
 | **Data Sprint** | Seattle Sprint 2026|
 | **Comment** | Comment |
 ---------------------------------------------------------
-
----------------------------------------------------------
-| Project Title | Lots of Dust |
-| --- | --- |
-| **Project Lead** | Carrie Holt |
-| **Expected first author** | ???? |
-| **Member (Role)** | Madeleine McLeod |
-| **Member (Role)** | Michael S.P. Kelley |
-| **Description of project** | Neat dusty comet to explore |
-| **Data Sprint** | Seattle Sprint 2026|
-| **Comment** | Comment |
----------------------------------------------------------
